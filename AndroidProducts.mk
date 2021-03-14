@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_rmx2020.mk
+    $(LOCAL_DIR)/omni_x682b.mk
 
-COMMON_LUNCH_CHOICES := omni_rmx2020-eng
+COMMON_LUNCH_CHOICES := omni_x682b-eng
